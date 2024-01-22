@@ -1,9 +1,4 @@
 "use strict";
-const username = {
-    name: "sourav",
-    college: "SAIT",
+const multiply = (a, b) => {
+    return a - b;
 };
-let a = 2;
-let b = 3;
-console.log(a / b);
-console.log(username.name);
